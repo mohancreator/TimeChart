@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TimeChart/static/css/main.a2333cad.css",
+    "main.js": "/TimeChart/static/js/main.824ed6b9.js",
+    "static/js/453.1aef5b90.chunk.js": "/TimeChart/static/js/453.1aef5b90.chunk.js",
+    "index.html": "/TimeChart/index.html",
+    "main.a2333cad.css.map": "/TimeChart/static/css/main.a2333cad.css.map",
+    "main.824ed6b9.js.map": "/TimeChart/static/js/main.824ed6b9.js.map",
+    "453.1aef5b90.chunk.js.map": "/TimeChart/static/js/453.1aef5b90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2333cad.css",
+    "static/js/main.824ed6b9.js"
+  ]
+}
